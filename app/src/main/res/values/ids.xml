@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ll_dzikir_doa_shalat_" type="id">VALUE</item>
+    <item name="tv_Desc" type="id" />
+    <item name="tv_Lavaz" type="id" />
+    <item name="tv_Terjemah" type="id" />
+    <item name="tv_terjemah" type="id" />
+    <item name="tv_lavaz" type="id" />
+    <item name="tv_desc" type="id" />
+    <item name="rv_dzikir_pagi" type="id" />
+    <item name="rv_dzikir_setiap_saat" type="id" />
+    <item name="rv_setiap_saat_dzikir" type="id" />
+    <item name="rv_dzikir_petang" type="id" />
+    <item name="rv_harian_dzikir_doa" type="id" />
+    <item name="rv_dzikir_doa_harian" type="id" />
+    <item name="tv_detail_image" type="id" />
+</resources>
